@@ -1,0 +1,15 @@
+2021-09-03 10:19:14,774  INFO [main] VerifyLogin:16 - Launch Browser
+2021-09-03 10:27:36,085  INFO [main] Log4jDemo:16 - Launch Browser
+2021-09-03 10:32:55,553  INFO [main] Log4jDemo:16 - Launch Browser
+2021-09-03 10:32:58,384  INFO [main] Log4jDemo:21 - open application
+2021-09-03 10:32:58,407  INFO [main] Log4jDemo:31 - correct title
+2021-09-03 10:34:14,993  INFO [main] Log4jDemo:16 - Launch Browser
+2021-09-03 10:34:17,378  INFO [main] Log4jDemo:21 - open application
+2021-09-03 10:34:17,395  INFO [main] Log4jDemo:31 - correct title
+2021-09-03 10:44:00,749  INFO [main] Log4jDemo:16 - Launch Browser
+2021-09-03 10:44:03,209  INFO [main] Log4jDemo:21 - open application
+2021-09-03 10:44:03,232  INFO [main] Log4jDemo:31 - correct title
+2021-09-03 10:45:02,466  INFO [main] Log4jDemo:16 - Launch Browser
+2021-09-03 10:45:04,913  INFO [main] Log4jDemo:21 - open application
+2021-09-03 10:45:04,937  INFO [main] Log4jDemo:26 - title is :Demo Web Shop. Login
+2021-09-03 10:45:04,940  INFO [main] Log4jDemo:32 - correct title
